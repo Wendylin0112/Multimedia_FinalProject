@@ -5,3 +5,5 @@
 !pip install librosa tensorflow tensorflow_hub pandas tensorflow_io \n
 !pip install diffusers transformers accelerate \n
 !pip install imageio[ffmpeg] moviepy \n``
+
+雲端資料夾的連結：https://drive.google.com/drive/folders/1NyNLC0d-jGjErz8paM7BtNICcG6FhqSs

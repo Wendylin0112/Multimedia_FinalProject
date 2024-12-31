@@ -6,11 +6,6 @@
 !pip install diffusers transformers accelerate \n
 !pip install imageio[ffmpeg] moviepy \n``
 
-## Links
-雲端資料夾的連結：https://drive.google.com/drive/folders/1NyNLC0d-jGjErz8paM7BtNICcG6FhqSs
-
-Demo的影片連結：https://youtu.be/mTuAVx2YuI8
-
 ## Details
 從一開始透過丟入要測試的音檔到已連結colab的雲端檔案中，接著透過一系列的操作去進行
 
@@ -21,3 +16,8 @@ Demo的影片連結：https://youtu.be/mTuAVx2YuI8
 4. 將音檔與生成的影片結合
 
 完成上述步驟即為我們最終的成果。
+
+## Links
+雲端資料夾的連結：https://drive.google.com/drive/folders/1NyNLC0d-jGjErz8paM7BtNICcG6FhqSs
+
+Demo的影片連結：https://youtu.be/mTuAVx2YuI8

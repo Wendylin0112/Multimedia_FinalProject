@@ -6,6 +6,17 @@
 !pip install diffusers transformers accelerate \n
 !pip install imageio[ffmpeg] moviepy \n``
 
+## Links
 雲端資料夾的連結：https://drive.google.com/drive/folders/1NyNLC0d-jGjErz8paM7BtNICcG6FhqSs
-
 Demo的影片連結：https://youtu.be/mTuAVx2YuI8
+
+## Details
+從一開始透過丟入要測試的音檔到已連結colab的雲端檔案中，接著透過一系列的操作去進行
+
+1. 讀入雲端中的音檔並進行分類標籤
+2. 根據每類標籤成生成的文本
+2-5. 根據分類結果連結對應的文本
+3. 先透過文本生成圖片，再透過圖片生成3秒鐘的影片
+4. 將音檔與生成的影片結合
+
+完成上述步驟即為我們最終的成果。
